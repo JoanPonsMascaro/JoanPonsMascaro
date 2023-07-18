@@ -1,4 +1,5 @@
-<h1>Joan Pons Mascaró</h1>
+<h3>¡Hola! Mi nombre es Joan Pons</h3>
+<h5>O más bien conocido como... AlphaDroid</h5>
 
 <!--
 **JoanPonsMascaro/JoanPonsMascaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
