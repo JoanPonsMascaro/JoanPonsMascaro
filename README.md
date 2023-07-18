@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1>Joan Pons Mascaró</h1>
 
 <!--
